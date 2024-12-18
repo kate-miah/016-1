@@ -1,5 +1,7 @@
+
 caption {
     border: 2px solid black;
+    border-bottom: none;
     padding: 5px 10px;
 
 }
@@ -7,7 +9,7 @@ caption {
 table {
     border: 2px solid black;
     border-collapse: collapse;
-
+    text-align: center;
 }
 
 td {
