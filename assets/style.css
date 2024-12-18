@@ -1,0 +1,24 @@
+caption {
+    border: 2px solid black;
+    padding: 5px 10px;
+
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+
+.marge {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
